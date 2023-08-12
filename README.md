@@ -17,8 +17,16 @@ O bot possui os seguintes comandos:
 3. Antes de iniciar o bot, siga as instruções abaixo para configurar algumas variáveis e IDs.
 
 ### Configurações Iniciais
-
 Antes de executar o bot, você precisará configurar algumas variáveis no código.
+
+## Arquivo .env
+```
+TOKEN=AQUI FICARÁ O TOKEN DO SEU BOT, LEMBRE-SE DE ATIVAR OS PRESENTS
+MONGO_URL=AQUI FICARÁ O LINK DA CONEXÃO PARA MONGODB
+GUILD=ID DO SEU SERVIDOR DISCORD
+COLOR=2f3136
+```
+Não esqueça de mudar o nome envExample para .env
 
 #### ReadyEvents.js
 
